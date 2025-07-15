@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Project\\BVGF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D039DC-16CE-43E0-A045-41F45C795592}|BVGFServices\\BVGFServices.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgfservices\\services\\mstcategary\\mstcategary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D039DC-16CE-43E0-A045-41F45C795592}|BVGFServices\\BVGFServices.csproj|solutionrelative:bvgfservices\\services\\mstcategary\\mstcategary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0A04D9-6DE5-4FFA-8621-C315FDF989BC}|BVGFRepository\\BVGFRepository.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgfrepository\\repository\\mstcategary\\mstcategary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0A04D9-6DE5-4FFA-8621-C315FDF989BC}|BVGFRepository\\BVGFRepository.csproj|solutionrelative:bvgfrepository\\repository\\mstcategary\\mstcategary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgf\\controllers\\mstcategary\\mstcategarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|solutionrelative:bvgf\\controllers\\mstcategary\\mstcategarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE970F33-6B55-4E81-9B0B-AB3A251A462A}|BVGFEntities\\BVGFEntities.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgfentities\\entities\\responseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE970F33-6B55-4E81-9B0B-AB3A251A462A}|BVGFEntities\\BVGFEntities.csproj|solutionrelative:bvgfentities\\entities\\responseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|solutionrelative:bvgf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0A04D9-6DE5-4FFA-8621-C315FDF989BC}|BVGFRepository\\BVGFRepository.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgfrepository\\interfaces\\mstcategary\\imstcategary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0A04D9-6DE5-4FFA-8621-C315FDF989BC}|BVGFRepository\\BVGFRepository.csproj|solutionrelative:bvgfrepository\\interfaces\\mstcategary\\imstcategary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|solutionrelative:bvgf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D039DC-16CE-43E0-A045-41F45C795592}|BVGFServices\\BVGFServices.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgfservices\\interfaces\\mstcategary\\imstcategary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D039DC-16CE-43E0-A045-41F45C795592}|BVGFServices\\BVGFServices.csproj|solutionrelative:bvgfservices\\interfaces\\mstcategary\\imstcategary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE970F33-6B55-4E81-9B0B-AB3A251A462A}|BVGFEntities\\BVGFEntities.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgfentities\\entities\\mstmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE970F33-6B55-4E81-9B0B-AB3A251A462A}|BVGFEntities\\BVGFEntities.csproj|solutionrelative:bvgfentities\\entities\\mstmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D039DC-16CE-43E0-A045-41F45C795592}|BVGFServices\\BVGFServices.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgfservices\\bvgfservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9D039DC-16CE-43E0-A045-41F45C795592}|BVGFServices\\BVGFServices.csproj|solutionrelative:bvgfservices\\bvgfservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0A04D9-6DE5-4FFA-8621-C315FDF989BC}|BVGFRepository\\BVGFRepository.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgfrepository\\bvgfrepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F0A04D9-6DE5-4FFA-8621-C315FDF989BC}|BVGFRepository\\BVGFRepository.csproj|solutionrelative:bvgfrepository\\bvgfrepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgf\\bvgf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|solutionrelative:bvgf\\bvgf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE970F33-6B55-4E81-9B0B-AB3A251A462A}|BVGFEntities\\BVGFEntities.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgfentities\\entities\\mstcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE970F33-6B55-4E81-9B0B-AB3A251A462A}|BVGFEntities\\BVGFEntities.csproj|solutionrelative:bvgfentities\\entities\\mstcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE970F33-6B55-4E81-9B0B-AB3A251A462A}|BVGFEntities\\BVGFEntities.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgfentities\\entities\\categorymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE970F33-6B55-4E81-9B0B-AB3A251A462A}|BVGFEntities\\BVGFEntities.csproj|solutionrelative:bvgfentities\\entities\\categorymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE970F33-6B55-4E81-9B0B-AB3A251A462A}|BVGFEntities\\BVGFEntities.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgfentities\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE970F33-6B55-4E81-9B0B-AB3A251A462A}|BVGFEntities\\BVGFEntities.csproj|solutionrelative:bvgfentities\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE970F33-6B55-4E81-9B0B-AB3A251A462A}|BVGFEntities\\BVGFEntities.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgfentities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE970F33-6B55-4E81-9B0B-AB3A251A462A}|BVGFEntities\\BVGFEntities.csproj|solutionrelative:bvgfentities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgf\\dtos\\mstcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|solutionrelative:bvgf\\dtos\\mstcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgf\\dtos\\baseentitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|solutionrelative:bvgf\\dtos\\baseentitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|c:\\users\\user\\desktop\\project\\bvgf\\bvgf\\mapper\\automapperr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FF35F5-A68C-4189-B2F6-7E9CB61CB7F1}|BVGF\\BVGF.csproj|solutionrelative:bvgf\\mapper\\automapperr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFEntities\\Entities\\ResponseEntity.cs",
+              "RelativeDocumentMoniker": "BVGFEntities\\Entities\\ResponseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFEntities\\Entities\\ResponseEntity.cs*",
+              "RelativeToolTip": "BVGFEntities\\Entities\\ResponseEntity.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:45:15.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MstCategaryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\Controllers\\MstCategary\\MstCategaryController.cs",
+              "RelativeDocumentMoniker": "BVGF\\Controllers\\MstCategary\\MstCategaryController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\Controllers\\MstCategary\\MstCategaryController.cs*",
+              "RelativeToolTip": "BVGF\\Controllers\\MstCategary\\MstCategaryController.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:21:07.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MstCategary.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFServices\\Services\\MstCategary\\MstCategary.cs",
+              "RelativeDocumentMoniker": "BVGFServices\\Services\\MstCategary\\MstCategary.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFServices\\Services\\MstCategary\\MstCategary.cs*",
+              "RelativeToolTip": "BVGFServices\\Services\\MstCategary\\MstCategary.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:08:19.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMstCategary.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFRepository\\Interfaces\\MstCategary\\IMstCategary.cs",
+              "RelativeDocumentMoniker": "BVGFRepository\\Interfaces\\MstCategary\\IMstCategary.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFRepository\\Interfaces\\MstCategary\\IMstCategary.cs",
+              "RelativeToolTip": "BVGFRepository\\Interfaces\\MstCategary\\IMstCategary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:41:15.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MstCategary.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFRepository\\Repository\\MstCategary\\MstCategary.cs",
+              "RelativeDocumentMoniker": "BVGFRepository\\Repository\\MstCategary\\MstCategary.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFRepository\\Repository\\MstCategary\\MstCategary.cs",
+              "RelativeToolTip": "BVGFRepository\\Repository\\MstCategary\\MstCategary.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAjwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:41:38.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\appsettings.json",
+              "RelativeDocumentMoniker": "BVGF\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\appsettings.json",
+              "RelativeToolTip": "BVGF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T12:18:46.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMstCategary.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFServices\\Interfaces\\MstCategary\\IMstCategary.cs",
+              "RelativeDocumentMoniker": "BVGFServices\\Interfaces\\MstCategary\\IMstCategary.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFServices\\Interfaces\\MstCategary\\IMstCategary.cs",
+              "RelativeToolTip": "BVGFServices\\Interfaces\\MstCategary\\IMstCategary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:07:28.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MstMember.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFEntities\\Entities\\MstMember.cs",
+              "RelativeDocumentMoniker": "BVGFEntities\\Entities\\MstMember.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFEntities\\Entities\\MstMember.cs",
+              "RelativeToolTip": "BVGFEntities\\Entities\\MstMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:00:49.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\Program.cs",
+              "RelativeDocumentMoniker": "BVGF\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\Program.cs",
+              "RelativeToolTip": "BVGF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:48:31.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BVGFServices.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFServices\\BVGFServices.csproj",
+              "RelativeDocumentMoniker": "BVGFServices\\BVGFServices.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFServices\\BVGFServices.csproj",
+              "RelativeToolTip": "BVGFServices\\BVGFServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T11:54:26.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BVGFRepository.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFRepository\\BVGFRepository.csproj",
+              "RelativeDocumentMoniker": "BVGFRepository\\BVGFRepository.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFRepository\\BVGFRepository.csproj",
+              "RelativeToolTip": "BVGFRepository\\BVGFRepository.csproj",
+              "ViewState": "AgIAAAgAAAAAla5zrJHovwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T11:39:05.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BVGF.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\BVGF.csproj",
+              "RelativeDocumentMoniker": "BVGF\\BVGF.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\BVGF.csproj",
+              "RelativeToolTip": "BVGF\\BVGF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T11:21:03.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MstCategory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFEntities\\Entities\\MstCategory.cs",
+              "RelativeDocumentMoniker": "BVGFEntities\\Entities\\MstCategory.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFEntities\\Entities\\MstCategory.cs",
+              "RelativeToolTip": "BVGFEntities\\Entities\\MstCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:00:48.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryMember.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFEntities\\Entities\\CategoryMember.cs",
+              "RelativeDocumentMoniker": "BVGFEntities\\Entities\\CategoryMember.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFEntities\\Entities\\CategoryMember.cs",
+              "RelativeToolTip": "BVGFEntities\\Entities\\CategoryMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:00:41.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFEntities\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BVGFEntities\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFEntities\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BVGFEntities\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:00:36.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFEntities\\Class1.cs",
+              "RelativeDocumentMoniker": "BVGFEntities\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGFEntities\\Class1.cs",
+              "RelativeToolTip": "BVGFEntities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:59:44.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MstCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\DTOs\\MstCategoryDto.cs",
+              "RelativeDocumentMoniker": "BVGF\\DTOs\\MstCategoryDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\DTOs\\MstCategoryDto.cs",
+              "RelativeToolTip": "BVGF\\DTOs\\MstCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:36:20.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntityDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\DTOs\\BaseEntityDto.cs",
+              "RelativeDocumentMoniker": "BVGF\\DTOs\\BaseEntityDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\DTOs\\BaseEntityDto.cs",
+              "RelativeToolTip": "BVGF\\DTOs\\BaseEntityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:35:03.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Automapperr.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\Mapper\\Automapperr.cs",
+              "RelativeDocumentMoniker": "BVGF\\Mapper\\Automapperr.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Project\\BVGF\\BVGF\\Mapper\\Automapperr.cs",
+              "RelativeToolTip": "BVGF\\Mapper\\Automapperr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:34:20.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

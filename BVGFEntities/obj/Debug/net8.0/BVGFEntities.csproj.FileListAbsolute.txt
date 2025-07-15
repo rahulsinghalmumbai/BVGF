@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Project\BVGF\BVGFEntities\bin\Debug\net8.0\BVGFEntities.deps.json
+C:\Users\User\Desktop\Project\BVGF\BVGFEntities\bin\Debug\net8.0\BVGFEntities.dll
+C:\Users\User\Desktop\Project\BVGF\BVGFEntities\bin\Debug\net8.0\BVGFEntities.pdb
+C:\Users\User\Desktop\Project\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Project\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Project\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.AssemblyInfo.cs
+C:\Users\User\Desktop\Project\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.dll
+C:\Users\User\Desktop\Project\BVGF\BVGFEntities\obj\Debug\net8.0\refint\BVGFEntities.dll
+C:\Users\User\Desktop\Project\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.pdb
+C:\Users\User\Desktop\Project\BVGF\BVGFEntities\obj\Debug\net8.0\ref\BVGFEntities.dll

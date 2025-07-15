@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "BVGF.Controllers.MstCategary.MstCategaryController",
+    "Method": "GetAllCategories",
+    "RelativePath": "api/MstCategary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

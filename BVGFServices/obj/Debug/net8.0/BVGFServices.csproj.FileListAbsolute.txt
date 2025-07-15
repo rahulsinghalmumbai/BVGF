@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\bin\Debug\net8.0\BVGFServices.deps.json
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\bin\Debug\net8.0\BVGFServices.dll
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\bin\Debug\net8.0\BVGFServices.pdb
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\bin\Debug\net8.0\BVGFRepository.dll
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\bin\Debug\net8.0\BVGFRepository.pdb
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\obj\Debug\net8.0\BVGFServices.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\obj\Debug\net8.0\BVGFServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\obj\Debug\net8.0\BVGFServices.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\obj\Debug\net8.0\BVGFServices.AssemblyInfo.cs
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\obj\Debug\net8.0\BVGFServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\obj\Debug\net8.0\BVGFServ.569991CF.Up2Date
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\obj\Debug\net8.0\BVGFServices.dll
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\obj\Debug\net8.0\refint\BVGFServices.dll
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\obj\Debug\net8.0\BVGFServices.pdb
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\obj\Debug\net8.0\ref\BVGFServices.dll
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\bin\Debug\net8.0\BVGFEntities.dll
+C:\Users\User\Desktop\Project\BVGF\BVGFServices\bin\Debug\net8.0\BVGFEntities.pdb
