@@ -9,3 +9,15 @@ C:\Users\User\Desktop\Project\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.dl
 C:\Users\User\Desktop\Project\BVGF\BVGFEntities\obj\Debug\net8.0\refint\BVGFEntities.dll
 C:\Users\User\Desktop\Project\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.pdb
 C:\Users\User\Desktop\Project\BVGF\BVGFEntities\obj\Debug\net8.0\ref\BVGFEntities.dll
+D:\BVGF\BVGFEntities\bin\Debug\net8.0\BVGFEntities.deps.json
+D:\BVGF\BVGFEntities\bin\Debug\net8.0\BVGFEntities.dll
+D:\BVGF\BVGFEntities\bin\Debug\net8.0\BVGFEntities.pdb
+D:\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.AssemblyInfoInputs.cache
+D:\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.AssemblyInfo.cs
+D:\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.csproj.CoreCompileInputs.cache
+D:\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.sourcelink.json
+D:\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.dll
+D:\BVGF\BVGFEntities\obj\Debug\net8.0\refint\BVGFEntities.dll
+D:\BVGF\BVGFEntities\obj\Debug\net8.0\BVGFEntities.pdb
+D:\BVGF\BVGFEntities\obj\Debug\net8.0\ref\BVGFEntities.dll

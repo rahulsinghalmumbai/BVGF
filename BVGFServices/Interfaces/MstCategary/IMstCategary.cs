@@ -1,4 +1,5 @@
 ﻿using BVGF.Entities;
+using BVGFEntities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,13 @@ namespace BVGFServices.Interfaces.MstCategary
 {
     public  interface IMstCategary
     {
-        Task<List<MstCategory>> GetAllAsync();
+        Task<List<MstCategoryDto>> GetAllAsync();
+
+        Task<string> CreateAsync(MstCategoryDto category);
+
+        Task<MstCategoryDto> GetByID(long ID);
+
+        Task<string> DeleteByID(MstCategoryDto ID);
+
     }
 }
