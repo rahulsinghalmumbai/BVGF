@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BVGF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20fca1b7389037efa32c662bdb321a0903263dd2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+797c488eb592a36f3e4a59cfdc4e749f880ee950")]
 [assembly: System.Reflection.AssemblyProductAttribute("BVGF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BVGF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

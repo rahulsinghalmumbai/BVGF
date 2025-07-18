@@ -66,3 +66,9 @@ secrets.json
 # Git ignore itself
 ############################
 !.gitignore
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore Visual Studio working folder
+.vs/
