@@ -1,18 +1,68 @@
-# Ignore Visual Studio specific folders/files
+############################
+# Ignore for Visual Studio
+############################
 .vs/
 *.user
 *.suo
 *.dbmdl
 
-# Ignore build output
+############################
+# Build results
+############################
 bin/
 obj/
-*.exe
-*.dll
-
-# Ignore logs and debug
+[Bb]uild/
+[Ll]og/
 *.log
 
-# Ignore temporary files
+############################
+# Temporary files
+############################
 *.tmp
 *.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+############################
+# Package manager directories
+############################
+node_modules/
+packages/
+*.nupkg
+
+############################
+# Resharper / Rider
+############################
+*.DotSettings.user
+.idea/
+*.sln.iml
+
+############################
+# ASP.NET specific
+############################
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+############################
+# Image / media cache
+############################
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+
+############################
+# Configuration
+############################
+appsettings.Development.json
+secrets.json
+.env
+
+############################
+# Git ignore itself
+############################
+!.gitignore
