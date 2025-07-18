@@ -1,0 +1,18 @@
+# Ignore Visual Studio specific folders/files
+.vs/
+*.user
+*.suo
+*.dbmdl
+
+# Ignore build output
+bin/
+obj/
+*.exe
+*.dll
+
+# Ignore logs and debug
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
