@@ -71,57 +71,68 @@ namespace BVGF.Controllers.MstCategary
         }
 
 
-        [HttpGet("CategoryID")]
-        public async Task<ActionResult> GetCategoryByID(long ID)
+        [HttpGet("{CategoryID}")]
+        public async Task<ActionResult> GetCategoryByID(long CategoryID)
         {
             try
             {
-                var category = await _mstCategaryService.GetByID(ID);
+                var category = await _mstCategaryService.GetByID(CategoryID);
 
                 if (category == null)
-                    return NotFound(new ResponseEntity
+                {
+                    return Ok(new ResponseEntity
                     {
-                        Status = "404",
+                        Status = "200",
                         Message = "No category found",
-                        Data = null
+                        Data = category
                     });
+                }
 
                 return Ok(new ResponseEntity
                 {
                     Status = "200",
-                    Message = "category Found",
+                    Message = "Category found",
                     Data = category
                 });
             }
             catch (Exception ex)
             {
-                return StatusCode(StatusCodes.Status500InternalServerError, $"Internal Server Error: {ex.Message}");
+                return StatusCode(StatusCodes.Status500InternalServerError, new ResponseEntity
+                {
+                    Status = "500",
+                    Message = "Internal Server Error",
+                    Data = ex.Message
+                });
             }
-
-
         }
+
 
         [HttpDelete("CategoryID")]
-        public async Task<ActionResult> DeleteCategoryByID(MstCategoryDto dto)
+        public async Task<ActionResult> DeleteCategoryByID(long CategoryID)
         {
             try
             {
-                var category = await _mstCategaryService.DeleteByID(dto);
+                var category = await _mstCategaryService.DeleteByID(CategoryID);
 
-                if (category == null)
-                    return NotFound(new ResponseEntity
-                    {
-                        Status = "404",
-                        Message = "No category found",
-                        Data = null
-                    });
-
-                return Ok(new ResponseEntity
+               if(category>0)
                 {
-                    Status = "200",
-                    Message = "category Delete",
-                    Data = category
-                });
+                    return Ok(new ResponseEntity
+                    {
+                        Status = "200",
+                        Message = "category Delete",
+                        Data = category
+                    });
+                }
+                else
+                {
+                    return Ok(new ResponseEntity
+                    {
+                        Status = "200",
+                        Message = "Category not found or already deleted",
+                        Data = category
+                    });
+                }
+               
             }
             catch (Exception ex)
             {
@@ -130,5 +141,7 @@ namespace BVGF.Controllers.MstCategary
 
 
         }
+
+
     }
 }
