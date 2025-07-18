@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BVGFServices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de4d0a21b4066f368065c4b8ac96395b08b8120a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BVGFServices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BVGFServices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

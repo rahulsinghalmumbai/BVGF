@@ -1,7 +1,10 @@
+using BVGF.Mapper;
 using BVGFRepository.Interfaces.MstCategary;
 using BVGFRepository.Repository.MstCategary;
 using BVGFServices.Interfaces.MstCategary;
+using BVGFServices.Interfaces.MstMember;
 using BVGFServices.Services.MstCategary;
+using BVGFServices.Services.MstMember;
 
 namespace BVGF
 {
@@ -23,6 +26,9 @@ namespace BVGF
             //register services
             builder.Services.AddScoped<IMstCategary, MstCategary>();
 
+            builder.Services.AddScoped<IMstMember, MstMember>();
+            //register our automapper
+            builder.Services.AddAutoMapper(typeof(Automapperr));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
