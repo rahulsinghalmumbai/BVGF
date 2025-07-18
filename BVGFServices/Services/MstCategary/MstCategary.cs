@@ -69,37 +69,59 @@ namespace BVGFServices.Services.MstCategary
             
 
             var dt = await _repository.ExecuteStoredProcedureAsync("stp_GetCategoryById", parameter);
-            var row = dt.Rows[0];
-            var result = new MstCategoryDto
+            if (dt.Rows.Count > 0)
             {
-                CategoryID = row["CategoryID"] != DBNull.Value ? Convert.ToInt32(row["CategoryID"]) : 0,
-                CategoryName = row["CategoryName"]?.ToString(),
-                Status = row["Status"] != DBNull.Value && Convert.ToBoolean(row["Status"]),
-                CreatedBy = row["CreatedBy"] != DBNull.Value ? Convert.ToInt32(row["CreatedBy"]) : null,
-                CreatedDt = row["CreatedDt"] != DBNull.Value ? Convert.ToDateTime(row["CreatedDt"]) : null,
-                UpdatedBy = row["UpdatedBy"] != DBNull.Value ? Convert.ToInt32(row["UpdatedBy"]) : null,
-                UpdatedDt = row["UpdatedDt"] != DBNull.Value ? Convert.ToDateTime(row["UpdatedDt"]) : null,
-                DeletedBy = row["DeletedBy"] != DBNull.Value ? Convert.ToInt32(row["DeletedBy"]) : null,
-                DeletedDt = row["DeletedDt"] != DBNull.Value ? Convert.ToDateTime(row["DeletedDt"]) : null
-            };
-            return result;
+                var row = dt.Rows[0];
+                var result = new MstCategoryDto
+                {
+                    CategoryID = row["CategoryID"] != DBNull.Value ? Convert.ToInt32(row["CategoryID"]) : 0,
+                    CategoryName = row["CategoryName"]?.ToString(),
+                    Status = row["Status"] != DBNull.Value && Convert.ToBoolean(row["Status"]),
+                    CreatedBy = row["CreatedBy"] != DBNull.Value ? Convert.ToInt32(row["CreatedBy"]) : null,
+                    CreatedDt = row["CreatedDt"] != DBNull.Value ? Convert.ToDateTime(row["CreatedDt"]) : null,
+                    UpdatedBy = row["UpdatedBy"] != DBNull.Value ? Convert.ToInt32(row["UpdatedBy"]) : null,
+                    UpdatedDt = row["UpdatedDt"] != DBNull.Value ? Convert.ToDateTime(row["UpdatedDt"]) : null,
+                    DeletedBy = row["DeletedBy"] != DBNull.Value ? Convert.ToInt32(row["DeletedBy"]) : null,
+                    DeletedDt = row["DeletedDt"] != DBNull.Value ? Convert.ToDateTime(row["DeletedDt"]) : null
+                };
+                return result;
+            }
+            else
+            {
+                return null;
+            }
         }
 
-         public async Task<string> DeleteByID(MstCategoryDto cate)
-         {
+        public async Task<long> DeleteByID(long ID)
+        {
             var parameters = new SqlParameter[]
             {
-            new SqlParameter("@CategoryID", cate.CategoryID),
-            
-            new SqlParameter("@Status", cate.Status),
-            new SqlParameter("@DeletedBy", cate.DeletedBy)
-            
+            new SqlParameter("@CategoryID", ID)
 
             };
+            if(ID>0 && ID!=null)
+            {
 
-            var result = await _repository.ExecuteNonQueryStoredProcedureAsync("stp_DeleteCategory", parameters);
-            return result.ToString();
-        
-         }
+                var getData = await _repository.ExecuteStoredProcedureAsync("stp_GetCategoryById", parameters);
+                if(getData.Rows.Count>0)
+                {
+                    var parameters1 = new SqlParameter[]
+                    {
+                        new SqlParameter("@CategoryID", ID)
+
+                    };
+                    var result = await _repository.ExecuteNonQueryStoredProcedureAsync("stp_DeleteCategory", parameters1);
+                    return result;
+                }
+                else
+                {
+                    return 0;
+                }
+            }
+            return 0;
+         
+        }
+
+
     }
 }
