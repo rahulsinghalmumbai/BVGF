@@ -16,7 +16,7 @@ namespace BVGFServices.Interfaces.MstCategary
 
         Task<MstCategoryDto> GetByID(long ID);
 
-        Task<string> DeleteByID(MstCategoryDto ID);
+        Task<long> DeleteByID(long ID);
 
     }
 }
